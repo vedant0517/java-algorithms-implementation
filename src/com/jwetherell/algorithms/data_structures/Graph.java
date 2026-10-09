@@ -3,9 +3,9 @@ package com.jwetherell.algorithms.data_structures;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.IdentityHashMap;
 import java.util.Iterator;
 import java.util.List;
-import java.util.IdentityHashMap;
 import java.util.Map;
 
 /**
